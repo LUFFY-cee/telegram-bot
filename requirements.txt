@@ -1,0 +1,5 @@
+python-telegram-bot
+transformers
+diffusers
+moviepy
+torch
